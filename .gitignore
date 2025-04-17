@@ -1,2 +1,4 @@
 /bin
 *.wav
+/go.work
+/go.work.sum
